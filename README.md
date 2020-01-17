@@ -42,4 +42,5 @@ public class indexController {
     @GetMapping("/")
     public String index() { return "index"; }
 }
-```
+``` 
+#### 3.创建gitApp https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/
