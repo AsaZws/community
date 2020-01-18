@@ -43,4 +43,5 @@ public class indexController {
     public String index() { return "index"; }
 }
 ``` 
-#### 3.创建gitApp https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/
+#### 3.创建gitApp https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/    
+#### 5.database https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-embedded-database-support
